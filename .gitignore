@@ -1,0 +1,21 @@
+# OpenClaw state files
+.openclaw/workspace-state.json
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sensitive (uncomment if needed)
+# .env
+# *.key
+# *.pem
